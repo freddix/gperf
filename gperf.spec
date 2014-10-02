@@ -1,7 +1,8 @@
+# based on PLD Linux spec git://git.pld-linux.org/packages/.git
 Summary:	A perfect hash function generator
 Name:		gperf
 Version:	3.0.4
-Release:	5
+Release:	6
 License:	GPL
 Group:		Development/Tools
 Source0:	ftp://ftp.gnu.org/gnu/gperf/%{name}-%{version}.tar.gz
